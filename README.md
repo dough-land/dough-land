@@ -1,0 +1,2 @@
+- 👋 Hi, I’m .dough
+- Contact me on Discord .dough#0001
