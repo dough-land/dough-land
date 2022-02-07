@@ -5,7 +5,7 @@ console.log(str)
 
 <p>Hello, I'm Viktor 
   <br> Contact me on 
-    <a href="https://discord.com/users/172035723828920320" target="_blank"><img src="https://img.shields.io/badge/-.dough-5865f2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.com/users/172035723828920320" target="_blank"><img src="https://img.shields.io/badge/-.dough%230001-5865f2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/viktor-melin-328502230/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://ko-fi.com/dough" target="_blank"><img src="https://img.shields.io/badge/-KoFi-ff5e5b?style=for-the-badge&logo=kofi&logoColor=white" /></a>
 </p>
