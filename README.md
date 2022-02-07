@@ -3,7 +3,7 @@ const str = 'Hello World'
 console.log(str)
 ```
 
-<p>Hello, I'm Viktor 
+<p> 👋 Hello, I'm Viktor 
   <br> Contact me on <br>
   <a href="https://www.linkedin.com/in/viktor-melin-328502230/" target="_blank"><img src="https://img.shields.io/badge/-LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://discord.com/users/172035723828920320" target="_blank"><img src="https://img.shields.io/badge/-.dough%230001-5865f2?style=for-the-badge&logo=discord&logoColor=white" /></a>
