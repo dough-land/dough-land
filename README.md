@@ -18,6 +18,3 @@
 > #### Expense App (built in react native, with express.js)
 <a href="https://github.com/viktormelin/expense-app-backend" target="_blank">Backend</a>  
 <a href="https://github.com/noahlissner/expense-app-frontend" target="_blank">Frontend</a>  
-
-> #### RedM (Cfx)
-<a href="https://github.com/Redemption-Roleplay" target="_blank">Redemption Roleplay</a>
