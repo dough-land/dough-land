@@ -8,18 +8,18 @@
 ## 💼 Some of my work
 Some of the more "serious" work, some released under the domain dixxel.io just to keep it separated and give it a united feeling with one brand and not a personal name for the time being
 
-#### paste(Bin)
-A simple code sharing tool, just a fun idea with some simple npm packages  
-[live link](https://bin.dixxel.io/)  
-[paste(Bin) repo](https://github.com/viktormelin/dixxel-bin)  
-
 #### Image Uploader
-More of a project to help me utilize the cloudflare images api in a better way, but can be used by anyone in the near future  
-[image uploader](https://github.com/viktormelin/uploading-service)
+More of a project to help me utilize the cloudflare images api in a better way, but can be used by anyone with access  
+[Cloudflare Wrapper](https://github.com/viktormelin/cf-images)
 
 #### Movie Dashboard
 A unfinished project to search for, and rate movies plus series. It will soon be rewritten in NextJS instead of Express to fit more with the rest of my new projects  
 [movie dashboard repo](https://github.com/viktormelin/movie-dashboard)
+
+#### paste(Bin)
+A simple code sharing tool, just a fun idea with some simple npm packages
+[live link](https://bin.dixxel.io/)  
+[paste(Bin) repo](https://github.com/viktormelin/dixxel-bin)  
 
 ## 🛠️ Skills and what I currently try to improve
 [comment]: ![](https://img.shields.io/badge/-★★★-2c2d72?style=flat&logo=lua&label=Lua&logoColor=2c2d72)
