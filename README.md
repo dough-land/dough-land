@@ -17,6 +17,3 @@
 ![](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-## ☕ Do you want to support my work?
-<a href="https://ko-fi.com/dough" target="_blank"><img src="https://img.shields.io/badge/-KoFi-ff5e5b?style=flat&logo=kofi&logoColor=white" /></a>
