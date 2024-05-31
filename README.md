@@ -1,5 +1,5 @@
 #### Hey, I'm Viktor! 👋
-...and I'm a self-taught front end developer, currently studying at [Medieinstitutet](https://github.com/medieinstitutet/)
+...and I'm a self-taught front end developer currently employed at SchoolSoft, I also studied some frontend at [Medieinstitutet](https://github.com/medieinstitutet/)
 
 Find my current, up to date work under the alias [**dixxel**](https://github.com/dixxel)
 
